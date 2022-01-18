@@ -641,7 +641,7 @@ TEMPLATE
 
 ## FBW Installer Issues
 
-??? failure "Livery Module Error"
+??? bug "Livery Module Error"
     ### Livery Module Error
 
     !!! tip ""
@@ -667,7 +667,7 @@ TEMPLATE
 
 ## Common MSFS Issues Impacting All Aircraft
 
-??? failure "Performance Degradation In-Flight"
+??? bug "Performance Degradation In-Flight"
     ### Performance Degradation In-Flight
 
     !!! tip ""
